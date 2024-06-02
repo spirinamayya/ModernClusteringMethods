@@ -2,7 +2,7 @@
 This repository contains code for a TDA algorithm, which uses filtration functions to capture data properties.
 
 # Algorithm comparison
-In AlgorithmComparison.ipynb description and comparison of existing algorithms (ToMAto, HDBSCAN, Genie, DeBacl, Persistable) is provided.
+In ComparisonSynthetic.ipynb description and TDA interpretation of existing algorithms (ToMAto, HDBSCAN, Genie, DeBacl, Persistable) is provided.
 
 # Developed algorithm
 Code for the algorithm itself and its applications to generated datasets can be found in TDAclustering.ipynb file. \
